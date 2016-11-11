@@ -1,3 +1,9 @@
+/*
+ * Programa para sistema de reproducción de música
+ * 
+ * Víctor 2016
+ */
+
 #include <SPI.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
